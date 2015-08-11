@@ -19,7 +19,7 @@
 @property (strong, nonatomic) NSFetchedResultsController* notesFetchController;
 
 - (void)saveContext;
-
+- (void)someTestMethodToCommit;
 - (NSURL *)applicationDocumentsDirectory;
 
 - (void)addNewNoteWithTitle:(NSString*)title
