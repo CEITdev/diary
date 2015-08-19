@@ -9,6 +9,8 @@
 #import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>
 
+#import "Note.h"
+
 
 @interface CoreDataManager : NSObject
 
@@ -16,11 +18,10 @@
 @property (readonly, strong, nonatomic) NSManagedObjectModel *managedObjectModel;
 @property (readonly, strong, nonatomic) NSPersistentStoreCoordinator *persistentStoreCoordinator;
 
-//
-
 @property (strong, nonatomic) NSFetchedResultsController* notesFetchController;
 
 - (void)saveContext;
+
 - (NSURL *)applicationDocumentsDirectory;
 
 - (void)addNewNoteWithTitle:(NSString*)title

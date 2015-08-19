@@ -5,23 +5,23 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>89B23E19-3424-49DE-9FD3-AD10DAE2C1C7</string>
+	<string>72C03918-FD5C-478C-ABBA-14B513CE72FB</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Diary</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>FF2150A816497E253FF54DD594D88F1307142546</key>
-		<string>https://github.com/CEITdev/diary</string>
+		<string>https://github.com/jacobsroman/diary</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Diary.xcodeproj</string>
+	<string>Diary.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>FF2150A816497E253FF54DD594D88F1307142546</key>
-		<string>../..</string>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/CEITdev/diary</string>
+	<string>https://github.com/jacobsroman/diary</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
